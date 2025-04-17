@@ -6,7 +6,7 @@ PROJECT_ROOT = pathlib.Path(__file__).parent.parent
 
 # --- Data Paths ---
 DATA_DIR = PROJECT_ROOT / "data"
-IMAGE_DIR = DATA_DIR / "images"
+IMAGE_DIR = DATA_DIR / "pictures"
 LABEL_FILE = DATA_DIR / "labels.csv"
 
 # --- Captcha Properties ---

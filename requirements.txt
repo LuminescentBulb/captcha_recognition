@@ -3,7 +3,7 @@ numpy==2.2.4
 scikit-learn==1.6.1
 scipy==1.15.2
 setuptools==75.8.0
-pytorch==2.6.0
+torch==2.6.0
 typing_extensions==4.13.0
 wheel==0.45.1
 matplotlib==3.10.1

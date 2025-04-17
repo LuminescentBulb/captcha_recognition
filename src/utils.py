@@ -1,5 +1,5 @@
 import torch
-import config
+from . import config
 
 
 # Create mapping dictionaries based on the character set in config
