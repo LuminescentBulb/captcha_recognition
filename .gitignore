@@ -1,0 +1,40 @@
+# Ignore data files
+data
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore model files
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Ignore dataset files
+*.csv
+*.tsv
+*.json
+*.zip
+
+# Ignore output files
+output/
+results/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
